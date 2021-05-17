@@ -100,7 +100,7 @@ const Search = () => {
                         type="search"
                         className="form-control"
                         onChange={handleChange("search")}
-                        placeholder="Search by name"
+                        placeholder="Search By Name"
                     />
                 </div>
                 <div
